@@ -1,0 +1,22 @@
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .main-heading-inner {
+    margin-left: 5%;
+  }
+  .main-heading-inner h1 {
+    font-size: 100px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 989px) {
+  .main-heading-inner {
+    margin-left: 5%;
+  }
+}
+@media  (min-width: 990px) and (max-width: 1200px) {
+  .main-heading-inner {
+    margin-left: 5%;
+  }
+}
+
